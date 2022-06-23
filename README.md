@@ -6,7 +6,7 @@ Player Attributes [Universal and School Specific]
 **Resist** - Or commonly known as "Defense" in other RPG games; is a percentage based attribute that is calculated last <br />
 **Strength** - Increases base damage of any weapon by X + X amount (Sum based) <br />
 **Pierce** - Ignores X% amount of resist <br />
-**Critical Chance** - Increases your X% chance of dealing a critical hit (2x Damage)<br />
+**Critical Rating** - Increases your X% chance of dealing a critical hit (2x Damage)<br />
 **Critical Block** - Increases X% chance of nullifing a critical hit
 
 
