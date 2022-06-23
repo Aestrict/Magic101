@@ -1,7 +1,7 @@
 name: Magic101Core
 version: ${project.version}
 main: net.dohaw.magic101core.Magic101Core
-api-version: 1.17
+api-version: 1.19
 commands:
   profile:
     description: Select a profile
